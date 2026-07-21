@@ -2,3 +2,6 @@ This code is based on Ross's Corporate Finance, 13th edition. Content may vary d
 Data was sourced from Apple using the yfinance library. 
 This was written by a student interested in finance, so there may be errors in the content. 
 It should be helpful as a reference when writing simple finance-related code.
+
+AI using
+Claude Code was used only for referencing financial statement indices/fields, visualizing graphs, committing to GitHub, and verifying calculations against real data.
