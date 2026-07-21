@@ -5,3 +5,5 @@ It should be helpful as a reference when writing simple finance-related code.
 
 AI using
 Claude Code was used only for referencing financial statement indices/fields, visualizing graphs, committing to GitHub, and verifying calculations against real data.
+
+Code assisted by Claude Code is marked with comments.
