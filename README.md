@@ -4,6 +4,6 @@ This was written by a student interested in finance, so there may be errors in t
 It should be helpful as a reference when writing simple finance-related code.
 
 AI using
-Claude Code was used only for referencing financial statement indices/fields, visualizing graphs, committing to GitHub, and verifying calculations against real data.
+Claude Code was used only for referencing financial statement indices/fields, visualizing graphs, committing to GitHub, translating(because i'm korean) and verifying calculations against real data.
 
 Code assisted by Claude Code is marked with comments.
