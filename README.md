@@ -1,3 +1,5 @@
+This repository documents my self-study process of implementing selected concepts and examples from Ross’s Corporate Finance in Python.
+
 This code is based on Ross's Corporate Finance, 13th edition. Content may vary depending on updated financial policies. 
 Data was sourced from Apple using the yfinance library. 
 This was written by a student interested in finance, so there may be errors in the content. 
